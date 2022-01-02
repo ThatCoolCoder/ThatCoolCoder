@@ -15,6 +15,13 @@ Programs I like:
 - Godot
 - vscode
 - Blender
+- Kdenlive
+- Inkscape
+
+Games I like:
 - FlightGear
+- SuperTuxKart
+- OpenTTD
+- Kerbal Space Program
 
 You can find me as ThatCoolCoder on replit.com, stackexchange, Github and itch.io (and probably some other places that I forgot).
