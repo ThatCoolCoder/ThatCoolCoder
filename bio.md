@@ -6,7 +6,7 @@ Favourite language:
 Python, although I'll use C# and Java on larger projects for performance and strict typing. I hate JavaScript because of its implicit type conversions. For some reason, I still write JavaScript a lot though.
 
 Favourite paradigm:
-Object oriented programming
+Object oriented programming, but functional is cool and useful in some situations.
 
 Main OS:
 Manjaro Linux but I generally like all Linuces.
