@@ -2,16 +2,17 @@
 
 Other hobbies of mine include aviation, model aircraft, PCs, space, general nerd things and twisty puzzles/Rubik's cubes.
 
-Favourite languages:
+#### Favourite languages:
+
 For larger projects, I like C# and Rust. Python is great for smaller things. Java is okay but I dislike the lack of tooling consistency (eg Maven vs Ant vs ...). I hate JavaScript because of its implicit type conversions and other oddities. For some reason, I still write JavaScript a lot though.
 
-Favourite paradigm:
+#### Favourite paradigm:
 Object oriented programming mainly, but functional programming can be really useful in some situations.
 
-Main OS:
+#### Main OS:
 Manjaro Linux but I generally like all Linuces, especially Arch-based ones.
 
-Programs I like:
+#### Programs I like:
 - Godot
 - vscode
 - Blender
@@ -20,7 +21,7 @@ Programs I like:
 - Firefox
 - Pixelorama
 
-Games I like:
+#### Games I like:
 - FlightGear
 - SuperTuxKart
 - OpenTTD
