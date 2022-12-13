@@ -1,3 +1,6 @@
+![Why has this image not loaded?](https://avatars.githubusercontent.com/u/62006241)
+# ThatCoolCoder
+
 ### I like to code.
 
 Other hobbies of mine include aviation, model aircraft, PCs, space, general nerd things and twisty puzzles/Rubik's cubes.
