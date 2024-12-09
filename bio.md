@@ -7,7 +7,7 @@ Other hobbies of mine include aviation, model aircraft, PCs, space, general nerd
 
 #### Favourite languages:
 
-For larger projects, I will use C# or Rust. Python is great for smaller things.. I find JavaScript to be somewhat annoying because of the many oddities embedded in the language, however due to its role as the language of the web, I accept this and make do.
+For larger projects, I will use C# or Rust. Python is great for smaller things or one-off tools. Although I do not particularly like Javascript as a language (due to its numerous oddities), I still use it a lot as it is required for web development.
 
 #### Favourite paradigm:
 I generally find myself using OOP as a means of high-level organisation, but also believe that functional programming techniques beside this can be helpful in many cases.
@@ -32,4 +32,4 @@ Manjaro Linux. I generally like all Linux distros, especially Arch-based ones.
 - Minetest (specifically NodeCore)
 - Kerbal Space Program
 
-You can find me as ThatCoolCoder on replit.com, stackexchange, Github and itch.io (and probably some other places that I forgot).
+You can find me as ThatCoolCoder on replit.com, stackexchange, Github and itch.io, among other places.
